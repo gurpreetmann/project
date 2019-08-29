@@ -1,0 +1,7 @@
+version: '3'
+services:
+        multiple:
+                image: gurpreetmann/multiple2numb:1
+                ports:
+                - "9000:9000"
+                
